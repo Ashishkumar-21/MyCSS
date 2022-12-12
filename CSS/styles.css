@@ -1,0 +1,110 @@
+
+.div1{
+    
+    background-color: rgb(142, 138, 192);
+    padding:20px;
+    padding: 50px;
+    margin: 0px;
+}
+
+body{
+    font-family: cursive;
+
+
+}
+
+h1{
+    font-size: 90px;
+    font-family: 'Sacramento', cursive;
+    margin-top: 100px;
+    line-height: 1;
+}
+
+p{
+    font-size: 1.25rem;
+    font-family: cursive;
+    font-weight: normal;
+}
+
+h2{
+    font-family: cursive;
+    font-weight: normal;
+}
+
+hr{
+    margin-top: 30px;
+    border-style: dotted none none;
+    background-color:  white;
+    border-color: grey;
+    width: 3.5%;
+    border-width: 5px;
+}
+
+.Cloud1{
+    transform: scaleX(-1);
+    width: 300px;
+    position: fixed;
+    left: 100px;
+    top: 250px;
+}
+.Cloud2{
+    width: 300px;
+    position: fixed;
+    right: 100px;
+    bottom: 450px;
+}
+.Cloud3{
+    transform: scaleX(-1);
+    width: 300px;
+    position: fixed;
+    left: 100px;
+    bottom: 490px;
+}
+.Cloud4{
+    width: 300px;
+    position: fixed;
+    right: 100px;
+    bottom: 490px;
+}
+
+.Mountain1{
+    width: 750px;
+    position: relative;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.Ashishimg {
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.skill-row{
+    margin: 100px auto;
+    text-align: left;
+    width: 50%;
+
+}
+
+.CodeGIF{
+    float: left;
+    margin-right: 40px;
+    margin-left: 10px;
+}
+
+.CameraGIF{
+    float: right;
+    margin-left: 20px;
+    margin-top: 50px;
+}
+
+.skillhead{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    font-size: 2rem;
+    font-family: cursive;
+}
